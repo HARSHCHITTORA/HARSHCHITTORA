@@ -1,6 +1,5 @@
-### HELLO I AM HARSH CHITTORA 👋
-
-
+<h1 align="center"> HELLO I AM HARSH CHITTORA 👋<h1>
+  <img src="https://drive.google.com/file/d/11gS1tiN0HsQDm5X2F4Mg1u_HptgA4Ajg/view?usp=sharing" align="center">
 
 - 🔭 I’m currently working on HTML,CSS AND JAVASCRIPT
 - 🌱 I’m currently learning NODE.JS AND EXPRESS JS
